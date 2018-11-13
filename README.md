@@ -1,0 +1,1 @@
+# minio-js-browser
