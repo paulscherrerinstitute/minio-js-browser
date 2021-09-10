@@ -1,3 +1,9 @@
+# DEPRECATION NOTICE
+
+**⚠️ This project has been discontinued**
+
+Also, you should **not** use [minio-js][] from the browser. See [this issue](https://github.com/minio/minio-js/issues/729#issuecomment-463538649) for details.
+
 # minio-js-browser
 
 This repo contains the [browserify][] build of [minio-js][], so it
